@@ -1,4 +1,4 @@
-# Copyright 2019 CompoundCode
+# Copyright 2019 [CompoundCode](https://github.com/compoundCode)
 
 # What is MwanzaFonts
 MwanzaFonts uses 
@@ -21,9 +21,9 @@ projects.
 -----------------------------------
 # Developer
 
-Names: Mwanza Jason Blessed
+Names: **Mwanza Jason Blessed**
 
-Handle: @mwanzabj
+Handle: **@mwanzabj**
 
-Facebook: fb.me/blessedjasonmwanza
+Facebook: [Blessed Jason Mwanza](https://facebook.com/blessedjasonmwanza)
 ------------------------------------
