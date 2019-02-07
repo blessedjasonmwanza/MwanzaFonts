@@ -13,10 +13,9 @@ projects.
 
 
 # How to Use MwanzaFonts
-:new:
 * Download MwanzaFonts and extract the folder in your project
 
-# For Web Developers
+# For Web Developers :new:
 
 ```html 
 <link rel="stylesheet" href="MwanzaFonts/mwanzafonts.min.css">
