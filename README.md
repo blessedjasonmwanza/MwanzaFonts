@@ -1,13 +1,13 @@
 # Copyright 2019 [CompoundCode](https://github.com/compoundCode)
 
  # :smile: What is  [MwanzaFonts](https://github.com/blessedjasonmwanza/MwanzaFonts/)   :question:
-> ***MwanzaFonts*** is a library for Emonjies & Icons.
+> ***MwanzaFonts*** is a library for Emojies & Icons.
 
 :arrow_up_down:
 
  ```
 It uses Font-Awesome methods/ways and style of emplementing
-icons, MwanzaFonts enables developers to use a light-weight Emonji & icon set for their
+icons, MwanzaFonts enables developers to use a light-weight Emoji & icon set for their
 projects.
 ```
 
