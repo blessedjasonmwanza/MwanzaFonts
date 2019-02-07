@@ -1,10 +1,12 @@
 # Copyright 2019 [CompoundCode](https://github.com/compoundCode)
 
 # What is [MwanzaFonts](https://github.com/blessedjasonmwanza/MwanzaFonts/) ?
-> MwanzaFonts is a library for Emonjies & Icons.
- -It uses Font-Awesome methods/ways and style of emplementing
+> ***MwanzaFonts*** is a library for Emonjies & Icons.
+ ```
+It uses Font-Awesome methods/ways and style of emplementing
 icons, ***MwanzaFonts*** enables _developers_ to use a light-weight Emonji & icon set for their
 projects.
+```
 
 # How to Use MwanzaFonts
 
