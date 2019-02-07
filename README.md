@@ -10,10 +10,10 @@ It uses Font-Awesome methods/ways and style of emplementing
 icons, MwanzaFonts enables developers to use a light-weight Emoji & icon set for their
 projects.
 ```
-:new:
+
 
 # How to Use MwanzaFonts
-
+:new:
 * Download MwanzaFonts and extract the folder in your project
 
 # For Web Developers
