@@ -20,9 +20,9 @@ projects.
 
 # Examples
 ```html
-<i class="fa fa-car"></i> <!--This outputs a car icon-->
+<i class="fa fa-arrow-right"></i> <!--This outputs an arrow pointing right icon-->
 ```
-See :taxi:
+See :arrow_right:
 -----------------------------------
 # Developer
 
