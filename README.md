@@ -14,7 +14,7 @@ projects.
 
 # For Web Developers
 
-  <link rel="stylesheet" href="MwanzaFonts/mwanza.min.css">
+<link rel="stylesheet" href="MwanzaFonts/mwanza.min.css">
 
 -----------------------------------
 # Developer
