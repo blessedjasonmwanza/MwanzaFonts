@@ -1,6 +1,6 @@
 # Copyright 2019 [CompoundCode](https://github.com/compoundCode)
 
-# What is MwanzaFonts
+# What is [MwanzaFonts](https://github.com/blessedjasonmwanza/MwanzaFonts/) ?
 MwanzaFonts uses 
 Font-Awesome methods
 and style of emplementing
@@ -15,7 +15,7 @@ projects.
 # For Web Developers
 
 ```html 
-<link rel="stylesheet" href="MwanzaFonts/mwanza.min.css">
+<link rel="stylesheet" href="MwanzaFonts/mwanzafonts.min.css">
 ```
 
 # Examples
@@ -30,5 +30,7 @@ Names: **Mwanza Jason Blessed**
 
 Handle: **@mwanzabj**
 
-Facebook: [Blessed Jason Mwanza](https://facebook.com/blessedjasonmwanza)
+Facebook: [Blessed Jason Mwanza](https://facebook.com/blessedjasonmwanza/)
+
+GitHub: [Blessed jason Mwanza](https://github.com/blessedjasonmwanza/)
 ------------------------------------
