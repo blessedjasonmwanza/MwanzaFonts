@@ -4,7 +4,7 @@
 > ***MwanzaFonts*** is a library for Emonjies & Icons.
  ```
 It uses Font-Awesome methods/ways and style of emplementing
-icons, ***MwanzaFonts*** enables _developers_ to use a light-weight Emonji & icon set for their
+icons, MwanzaFonts enables developers to use a light-weight Emonji & icon set for their
 projects.
 ```
 
