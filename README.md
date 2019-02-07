@@ -18,6 +18,11 @@ projects.
 <link rel="stylesheet" href="MwanzaFonts/mwanza.min.css">
 ```
 
+# Examples
+```html
+<i class="fa fa-car"></i> <!--This outputs a car icon-->
+```
+See :taxi:
 -----------------------------------
 # Developer
 
